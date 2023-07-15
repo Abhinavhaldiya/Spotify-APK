@@ -1,0 +1,1 @@
+A Python-based project employs the Spotify API and web scraping techniques. It fetches track information, artist details, and user playlists from the Spotify API. Additionally, it uses web scraping to extract the current top Billboard songs, enhancing the project's functionality by providing up-to-date popular song data from external sources
